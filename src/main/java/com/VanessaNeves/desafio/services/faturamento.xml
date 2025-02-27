@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamento>
+    <dia>
+        <data>2025-02-01</data>
+        <valor>1500.75</valor>
+    </dia>
+    <dia>
+        <data>2025-02-02</data>
+        <valor>0.0</valor>
+    </dia>
+    <dia>
+        <data>2025-02-03</data>
+        <valor>2500.60</valor>
+    </dia>
+    <dia>
+        <data>2025-02-04</data>
+        <valor>1800.40</valor>
+    </dia>
+    <dia>
+        <data>2025-02-05</data>
+        <valor>0.0</valor>
+    </dia>
+    <dia>
+        <data>2025-02-06</data>
+        <valor>3200.90</valor>
+    </dia>
+    <dia>
+        <data>2025-02-07</data>
+        <valor>2950.10</valor>
+    </dia>
+</faturamento>
